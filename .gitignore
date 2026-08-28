@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Build artifacts / local data
+*.sqlite
+*.log
+
+# Textbook PDFs (copyrighted — supply your own locally)
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
